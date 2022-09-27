@@ -43,7 +43,7 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 <img src="images/mahesh.png" width="200px">
 
 [[github](http://github.com/anuanas2007)]
-[[portfolio](team/mahesh.md)]
+[[portfolio](team/anuanas2007.md)]
 
 * Role: Developer
 * Responsibilities: Code Quality + Documentation

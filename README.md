@@ -6,7 +6,7 @@
 * This is **a project for Software Engineering (SE) students**.<br>
 
   Example usages:
-  * As a team lead, you can create teams and add members into the team. 
+  * As a team lead, you can create teams and add members into the team.
   * As a team lead, you can add tasks into each team and set deadlines for the task.
 
 * The project simulates an ongoing software project for a desktop application used for managing teams in a work place.
